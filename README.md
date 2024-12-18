@@ -52,7 +52,8 @@ Run the code in terminal : npm run dev
 
 ## Screenshots 
 ![image](https://github.com/user-attachments/assets/b60549e8-8381-471a-9448-00e3a7b14e30)
-![image](https://github.com/user-attachments/assets/7d58187b-e90c-49ec-af35-6ca83f14d221)
-![image](https://github.com/user-attachments/assets/42eec30f-17fd-445b-9709-3bd7f04d4727)
+![image](https://github.com/user-attachments/assets/5003c15d-42fc-4f5c-8100-4cd1f6cab4f7)
+![image](https://github.com/user-attachments/assets/963d1998-fcf3-4875-9edc-3bc929d79de1)
+
 
 
